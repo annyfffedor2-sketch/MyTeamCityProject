@@ -1,0 +1,14 @@
+/Users/annafedorisina/Desktop/MyTeamCityProject/bin/Debug/net10.0/MyTeamCityProject
+/Users/annafedorisina/Desktop/MyTeamCityProject/bin/Debug/net10.0/MyTeamCityProject.deps.json
+/Users/annafedorisina/Desktop/MyTeamCityProject/bin/Debug/net10.0/MyTeamCityProject.runtimeconfig.json
+/Users/annafedorisina/Desktop/MyTeamCityProject/bin/Debug/net10.0/MyTeamCityProject.dll
+/Users/annafedorisina/Desktop/MyTeamCityProject/bin/Debug/net10.0/MyTeamCityProject.pdb
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.AssemblyInfoInputs.cache
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.AssemblyInfo.cs
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.csproj.CoreCompileInputs.cache
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.dll
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/refint/MyTeamCityProject.dll
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.pdb
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/MyTeamCityProject.genruntimeconfig.cache
+/Users/annafedorisina/Desktop/MyTeamCityProject/obj/Debug/net10.0/ref/MyTeamCityProject.dll
